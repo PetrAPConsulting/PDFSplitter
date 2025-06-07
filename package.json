@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "pdf-poppler": "^0.2.1"
+  }
+}
